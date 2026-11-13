@@ -5,4 +5,4 @@
 <h3 align="center"> Languages · Frameworks · Tools </h3> <p align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,github,vscode,clion,matlab,notion&perline=8" alt="Skills" /> </p>
 
 <p align="center"> Let's Connect! </p> 
-<p align="center"> <a href="https://www.linkedin.com/in/naomika-rohra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nrohra@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <p align="center">⭐ Thanks for stopping by! ⭐</p>
+<p align="center"> <a href="https://www.linkedin.com/in/naomika-rohra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=pink" /></a> <a href="mailto:nrohra@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=pink" /></a> <p align="center">⭐ Thanks for stopping by! ⭐</p>
