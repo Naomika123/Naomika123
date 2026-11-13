@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Naomika Rohra 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Student+%26+Aspiring+Developer;Learning+ML+%26+Data+Science;Building+cool+stuff+with+friends" alt="Typing SVG" /> </p>
 
-Systems Design Engineering @ UWaterloo
+Systems Design Engineering @ UWaterloo •
 Seeking Summer '27 internships
 
 Show Image Show Image Show Image Show Image Show Image Show Image
